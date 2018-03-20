@@ -15,6 +15,7 @@ Development resources
 - [How One Jira Ticket Made My Employer $1MM/Month: 7 Metrics that Actually Matter](https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b)
 - [How to Build a High Velocity Development Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
 - [The Essential Guide to Building Balanced Development Teams](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+- [12 signs your working in a feature factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 
 ## Hiring 
 - [Tech Hiring Has Always Been Broken. Here’s How I Survived it for Decades.](https://medium.com/javascript-scene/tech-hiring-has-always-been-broken-heres-how-i-survived-it-for-decades-b7ac33088de6)
@@ -46,3 +47,6 @@ Development resources
 
 ## Other lists
 - [Mark Erikson Blog](http://blog.isquaredsoftware.com/)
+
+## Feature Toggles
+- [ ]()https://martinfowler.com/articles/feature-toggles.html

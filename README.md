@@ -63,6 +63,9 @@ Development resources
 ### Brian Beckman
 - [channel 9](https://channel9.msdn.com/Tags/brian+beckman)
 
+### Dan Abramov
+- [Twitter](https://twitter.com/dan_abramov)
+
 ### Dr Boolean
 - [Medium](https://medium.com/@drboolean)
 - [Twitter](https://twitter.com/drboolean)

@@ -41,3 +41,6 @@ Development resources
 
 ## Inheritance
 - [JavaScript Factory Functoins vs Contructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
+
+## Other lists
+- [Mark Erikson Blog](http://blog.isquaredsoftware.com/)

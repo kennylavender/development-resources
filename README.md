@@ -9,6 +9,9 @@ Development resources
 - [Mostly Adequate Guide - Old](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
 - [Out of the tar pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 
+## Books
+- [Eric's list of books](https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b)
+
 ## Fundamentals
 - [Debugging Production JavaScript](https://medium.com/javascript-scene/debugging-production-javascript-469668ba247b)
 - [Two pillars of JavaScript part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)

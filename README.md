@@ -58,6 +58,7 @@ Development resources
 ## Other 
 - [Why would I use a Webpack?](http://tinselcity.net/whys/packers)
 - [Jake Archibald: In The Loop - JSConf.Asia 2018](https://t.co/qWY8CiLiAS)
+- [HTTP statuses](https://httpstatuses.com/)
 
 ## Github Dev Process
 - [Pull Request Template](https://github.com/coryhouse/react-slingshot/blob/master/PULL_REQUEST_TEMPLATE.md)
@@ -67,6 +68,7 @@ Development resources
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [This dot media](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
+- [Restful API design](https://www.youtube.com/watch?v=QpAhXa12xvU&t=437s)
 
 
 ## Feature Toggles

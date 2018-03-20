@@ -16,6 +16,7 @@ Development resources
 - [Debugging Production JavaScript](https://medium.com/javascript-scene/debugging-production-javascript-469668ba247b)
 - [Two pillars of JavaScript part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Two pillars of JavaScript part 2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+- [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308)
 
 ## Management
 - [Why deadlines need to drop dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1)

@@ -22,6 +22,7 @@ Development resources
 - [12 signs your working in a feature factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 - [Tech Hiring Has Always Been Broken. Here’s How I Survived it for Decades.](https://medium.com/javascript-scene/tech-hiring-has-always-been-broken-heres-how-i-survived-it-for-decades-b7ac33088de6)
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
+- [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 
 ## Node
 - [Node and express](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
@@ -31,6 +32,8 @@ Development resources
 - [5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)
 - [Mocking is a code smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 - [5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
+- [Making your UI tests resilient to change](https://blog.kentcdodds.com/making-your-ui-tests-resilient-to-change-d37a6ee37269)
+- [Google's Retrofitted Testing Culture, or: Déjà Vu All Over Again](https://martinfowler.com/articles/testing-culture.html#google)
 
 ## Functional Programming
 - [Composing Software series](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
@@ -47,7 +50,12 @@ Development resources
 ## Inheritance
 - [JavaScript Factory Functoins vs Contructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
 
-## Other lists
+## Other 
+- [Why would I use a Webpack?](http://tinselcity.net/whys/packers)
+- [Jake Archibald: In The Loop - JSConf.Asia 2018](https://t.co/qWY8CiLiAS)
+
+## Github Dev Process
+- [Pull Request Template](https://github.com/coryhouse/react-slingshot/blob/master/PULL_REQUEST_TEMPLATE.md)
 
 ## Video
 - [Channel 9](https://channel9.msdn.com/)
@@ -63,6 +71,8 @@ Development resources
 
 ### Brian Beckman
 - [channel 9](https://channel9.msdn.com/Tags/brian+beckman)
+
+### Cor
 
 ### Dan Abramov
 - [Twitter](https://twitter.com/dan_abramov)

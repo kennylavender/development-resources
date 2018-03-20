@@ -13,7 +13,7 @@ Development resources
 ## Project Management
 - [Why deadlines need to drop dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1)
 - [How One Jira Ticket Made My Employer $1MM/Month: 7 Metrics that Actually Matter](https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b)
-- [https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+- [How to Build a High Velocity Development Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
 - [The Essential Guide to Building Balanced Development Teams](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 ## Hiring 

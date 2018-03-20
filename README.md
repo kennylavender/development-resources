@@ -50,11 +50,9 @@ Development resources
 
 
 ## Feature Toggles
-- [ ]()https://martinfowler.com/articles/feature-toggles.html
+- [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 
 ## People to follow
-
-
 
 ### Brian Beckman
 - [channel 9](https://channel9.msdn.com/Tags/brian+beckman)

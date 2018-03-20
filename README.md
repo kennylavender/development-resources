@@ -7,6 +7,7 @@ Development resources
 - [Structure and interpration of computer programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 - [JavaScript allonge 6](https://leanpub.com/javascriptallongesix/read)
 - [Mostly Adequate Guide - Old](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+- [Out of the tar pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 
 ## Fundamentals
 - [Debugging Production JavaScript](https://medium.com/javascript-scene/debugging-production-javascript-469668ba247b)

@@ -48,6 +48,10 @@ Development resources
 
 ## Other lists
 
+## Video
+- [Channel 9](https://channel9.msdn.com/)
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
 
 ## Feature Toggles
 - [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)

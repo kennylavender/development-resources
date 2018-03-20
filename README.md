@@ -1,11 +1,13 @@
 # development-resources
 Development resources
 
-## Appliaction
-
+## Online Books
 - [Programming JavaScript Applications](http://pdf.th7.cn/down/files/1411/Programming%20JavaScript%20Applications.pdf)
+- [You dont know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Structure and interpration of computer programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+- [JavaScript allonge 6](https://leanpub.com/javascriptallongesix/read)
 
-## Basics
+## Fundamentals
 - [Debugging Production JavaScript](https://medium.com/javascript-scene/debugging-production-javascript-469668ba247b)
 - [Two pillars of JavaScript part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Two pillars of JavaScript part 2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)

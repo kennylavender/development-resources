@@ -33,6 +33,7 @@ Development resources
 - [Mocking is a code smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 - [5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
 - [Making your UI tests resilient to change](https://blog.kentcdodds.com/making-your-ui-tests-resilient-to-change-d37a6ee37269)
+- [Goto Fail, Heartbleed, and Unit Testing Culture](https://martinfowler.com/articles/testing-culture.html)
 - [Google's Retrofitted Testing Culture, or: Déjà Vu All Over Again](https://martinfowler.com/articles/testing-culture.html#google)
 
 ## Functional Programming

@@ -1,6 +1,10 @@
 # development-resources
 Development resources
 
+## Appliaction
+
+- [Programming JavaScript Applications](http://pdf.th7.cn/down/files/1411/Programming%20JavaScript%20Applications.pdf)
+
 ## Basics
 - [Debugging Production JavaScript](https://medium.com/javascript-scene/debugging-production-javascript-469668ba247b)
 - [Two pillars of JavaScript part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)

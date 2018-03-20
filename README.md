@@ -32,8 +32,8 @@ Development resources
 - [5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
 
 ## Functional Programming
-
 - [Composing Software series](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+- [Brian Beckman + Channel 9](https://channel9.msdn.com/Tags/brian+beckman)
 
 ## Native vs Web apps.
 

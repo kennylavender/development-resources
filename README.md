@@ -12,14 +12,12 @@ Development resources
 - [Two pillars of JavaScript part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Two pillars of JavaScript part 2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 
-## Project Management
+## Management
 - [Why deadlines need to drop dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1)
 - [How One Jira Ticket Made My Employer $1MM/Month: 7 Metrics that Actually Matter](https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b)
 - [How to Build a High Velocity Development Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
 - [The Essential Guide to Building Balanced Development Teams](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 - [12 signs your working in a feature factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
-
-## Hiring 
 - [Tech Hiring Has Always Been Broken. Here’s How I Survived it for Decades.](https://medium.com/javascript-scene/tech-hiring-has-always-been-broken-heres-how-i-survived-it-for-decades-b7ac33088de6)
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
 

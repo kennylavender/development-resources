@@ -47,7 +47,26 @@ Development resources
 - [JavaScript Factory Functoins vs Contructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
 
 ## Other lists
-- [Mark Erikson Blog](http://blog.isquaredsoftware.com/)
+
 
 ## Feature Toggles
 - [ ]()https://martinfowler.com/articles/feature-toggles.html
+
+## People to follow
+
+
+
+### Brian Beckman
+- [channel 9](https://channel9.msdn.com/Tags/brian+beckman)
+
+### Dr Boolean
+- [Medium](https://medium.com/@drboolean)
+- [Twitter](https://twitter.com/drboolean)
+
+### Eric Elliot
+- [Medium](https://medium.com/@_ericelliott)
+- [Twitter](https://twitter.com/_ericelliott)
+
+### Mark Ericson
+- [Blog](http://blog.isquaredsoftware.com/)
+- [Twitter](https://twitter.com/acemarke)

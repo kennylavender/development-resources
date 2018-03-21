@@ -30,6 +30,9 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
 - [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 
+## Editors
+- [vim config](https://github.com/amix/vimrc)
+
 ## Node
 - [Node and express](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
 

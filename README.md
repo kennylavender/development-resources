@@ -1,6 +1,8 @@
 # development-resources
 Development resources
 
+This is sort of a mess at the moment, I am just working on gathering all my resources into one place at the moment and I will organize after.
+
 ## Online Books
 - [Programming JavaScript Applications](http://pdf.th7.cn/down/files/1411/Programming%20JavaScript%20Applications.pdf)
 - [You dont know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -70,6 +72,13 @@ Development resources
 - [This dot media](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
 - [Restful API design](https://www.youtube.com/watch?v=QpAhXa12xvU&t=437s)
 
+## VR/AR
+- [S05E05 Modern Web Podcast - What's Going on in VR?](https://www.youtube.com/watch?v=3KDJhUb46F0&feature=youtu.be)
+- [Poly](https://poly.google.com/)
+- [A-Frame](https://aframe.io/docs/0.8.0/introduction/)
+- [Project Play](https://play.autodesk.com/package)
+- [Blocks](https://vr.google.com/blocks/)
+- [Birdly](http://birdlyvr.com/)
 
 ## Feature Toggles
 - [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
@@ -88,6 +97,10 @@ Development resources
 ## Performance
 - [Pingdom](https://tools.pingdom.com/)
 - [CSS Triggers](https://csstriggers.com/)
+- [Perf tooling today](http://www.perf-tooling.today/)
+
+## Monads
+- [Folktale](http://folktale.origamitower.com/)
 
 ## People to follow
 

@@ -74,6 +74,21 @@ Development resources
 ## Feature Toggles
 - [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 
+## Continuous Deployment/Integration Services
+- [Circle CI](https://circleci.com/pricing/)
+- [Travis CI](https://travis-ci.org/)
+
+## Meetings and screen Sharing
+- [Zoom](https://zoom.us/pricing)
+
+## Organization and 
+- [Waffle.io](https://waffle.io/)
+- [Trello](https://trello.com/)
+
+## Performance
+- [Pingdom](https://tools.pingdom.com/)
+- [CSS Triggers](https://csstriggers.com/)
+
 ## People to follow
 
 ### Brian Beckman

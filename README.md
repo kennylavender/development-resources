@@ -54,6 +54,9 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Why native apps are doomed part 1](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0)
 - [Why native apps are doomed part 2](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9)
 
+## Maintenance + Migration
+- https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4
+
 ## Redux
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 

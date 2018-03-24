@@ -45,6 +45,9 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Goto Fail, Heartbleed, and Unit Testing Culture](https://martinfowler.com/articles/testing-culture.html)
 - [Google's Retrofitted Testing Culture, or: Déjà Vu All Over Again](https://martinfowler.com/articles/testing-culture.html#google)
 
+## RAIL
+- [rail](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
+
 ## Functional Programming
 - [Composing Software series](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - [Brian Beckman + Channel 9](https://channel9.msdn.com/Tags/brian+beckman)

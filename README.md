@@ -6,6 +6,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 ## Random
 - https://dev.to/lpasqualis/the-5-problem-solving-skills-of-great-software-developers-4e6
 - https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4
+- https://martinfowler.com/bliki/ContinuousDelivery.html
 - https://www.atlassian.com/continuous-delivery
 - https://www.visualstudio.com/learn/what-is-devops/
 - https://www.visualstudio.com/devops/

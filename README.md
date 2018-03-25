@@ -11,6 +11,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - https://www.atlassian.com/continuous-delivery
 - https://www.visualstudio.com/learn/what-is-devops/
 - https://www.visualstudio.com/devops/
+- https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11
 
 ## Archetectures
 - https://martinfowler.com/articles/microservices.html

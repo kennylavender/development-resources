@@ -6,9 +6,13 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 ## Random
 - https://dev.to/lpasqualis/the-5-problem-solving-skills-of-great-software-developers-4e6
 - https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4
+- https://www.atlassian.com/continuous-delivery
 
 ## Archetectures
 - https://martinfowler.com/articles/microservices.html
+- [GOTO 2014 • Microservices • Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+- [GOTO 2016 • Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg](https://www.youtube.com/watch?v=57UK46qfBLY)
+- [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
 ## Online Books
 - [Programming JavaScript Applications](http://pdf.th7.cn/down/files/1411/Programming%20JavaScript%20Applications.pdf)

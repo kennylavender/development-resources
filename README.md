@@ -7,6 +7,9 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - https://dev.to/lpasqualis/the-5-problem-solving-skills-of-great-software-developers-4e6
 - https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4
 
+## Archetectures
+- https://martinfowler.com/articles/microservices.html
+
 ## Online Books
 - [Programming JavaScript Applications](http://pdf.th7.cn/down/files/1411/Programming%20JavaScript%20Applications.pdf)
 - [You dont know JS](https://github.com/getify/You-Dont-Know-JS)

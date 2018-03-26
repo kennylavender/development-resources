@@ -13,7 +13,8 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - https://www.visualstudio.com/devops/
 - https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11
 
-## Archetectures
+## Infrastructure
+- [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)
 - https://martinfowler.com/articles/microservices.html
 - [GOTO 2014 • Microservices • Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 - [GOTO 2016 • Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg](https://www.youtube.com/watch?v=57UK46qfBLY)

@@ -12,8 +12,8 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - https://www.visualstudio.com/learn/what-is-devops/
 - https://www.visualstudio.com/devops/
 - https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11
--[Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
--[ES modules deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+- [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
+- [ES modules deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

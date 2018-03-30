@@ -15,6 +15,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
 - [ES modules deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 - [Architecture, Performance, and Games](http://gameprogrammingpatterns.com/architecture-performance-and-games.html)
+- [http status codes for client side apps](https://softwareengineering.stackexchange.com/questions/305250/should-i-use-http-status-codes-to-describe-application-level-events)
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

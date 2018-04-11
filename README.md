@@ -18,6 +18,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [http status codes for client side apps](https://softwareengineering.stackexchange.com/questions/305250/should-i-use-http-status-codes-to-describe-application-level-events)
 - [Secrets of Awesome JavaScript API Design](https://www.youtube.com/watch?v=QlQm786MClE)
 - [creating themeable design systems](http://bradfrost.com/blog/post/creating-themeable-design-systems/)
+- [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

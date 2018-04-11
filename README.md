@@ -20,6 +20,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [creating themeable design systems](http://bradfrost.com/blog/post/creating-themeable-design-systems/)
 - [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)
 - [03 Creating A Scalable JavaScript Application Architecture Nicholas Zakas](https://www.youtube.com/watch?v=b5pFv9NB9fs)
+- [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

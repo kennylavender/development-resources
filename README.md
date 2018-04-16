@@ -21,6 +21,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)
 - [03 Creating A Scalable JavaScript Application Architecture Nicholas Zakas](https://www.youtube.com/watch?v=b5pFv9NB9fs)
 - [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+- [Five Tips for Working with Redux in Large Applications](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

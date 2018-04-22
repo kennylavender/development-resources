@@ -25,6 +25,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Event Aggregator](https://martinfowler.com/eaaDev/EventAggregator.html)
 - [Observer Synchronization](https://martinfowler.com/eaaDev/MediatedSynchronization.html)
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [JavaScript best practices, Node.js, and how to end poverty with Eric Elliott](https://www.youtube.com/watch?v=pVNagJzzaFg)
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

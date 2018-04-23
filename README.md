@@ -26,6 +26,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Observer Synchronization](https://martinfowler.com/eaaDev/MediatedSynchronization.html)
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 - [JavaScript best practices, Node.js, and how to end poverty with Eric Elliott](https://www.youtube.com/watch?v=pVNagJzzaFg)
+- [Dejan Glozic: "Node.js Micro-Services at IBM"](https://www.youtube.com/watch?v=DvZd_wz4mIY)
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

@@ -27,6 +27,8 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 - [JavaScript best practices, Node.js, and how to end poverty with Eric Elliott](https://www.youtube.com/watch?v=pVNagJzzaFg)
 - [Dejan Glozic: "Node.js Micro-Services at IBM"](https://www.youtube.com/watch?v=DvZd_wz4mIY)
+-[Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
+
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)
@@ -42,6 +44,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [JavaScript allonge 6](https://leanpub.com/javascriptallongesix/read)
 - [Mostly Adequate Guide - Old](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
 - [Out of the tar pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
+- [ReactNYC - Advanced Redux Patterns - Nir Kaufman (@nirkaufman)](https://www.youtube.com/watch?v=JUuic7mEs-s)
 
 ## Books
 - [Eric's list of books](https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b)

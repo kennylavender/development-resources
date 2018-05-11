@@ -31,6 +31,10 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [The Developer Insight Series, Part 1: Write Dumb Code -- Advice From Four Leading Java Developers](http://www.oracle.com/technetwork/articles/javase/devinsight-1-139780.html#1)
 - https://github.com/demo-projects/redux-patterns-demo/tree/finish
 
+## GraphQL
+- [GraphQL vs. REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)
+- [https://www.howtographql.com/](https://www.howtographql.com/)
+
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

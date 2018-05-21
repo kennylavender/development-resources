@@ -30,6 +30,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 -[Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 - [The Developer Insight Series, Part 1: Write Dumb Code -- Advice From Four Leading Java Developers](http://www.oracle.com/technetwork/articles/javase/devinsight-1-139780.html#1)
 - https://github.com/demo-projects/redux-patterns-demo/tree/finish
+- [7guis](https://eugenkiss.github.io/7guis/)
 
 ## GraphQL
 - [GraphQL vs. REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)

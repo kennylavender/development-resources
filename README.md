@@ -31,6 +31,10 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [The Developer Insight Series, Part 1: Write Dumb Code -- Advice From Four Leading Java Developers](http://www.oracle.com/technetwork/articles/javase/devinsight-1-139780.html#1)
 - https://github.com/demo-projects/redux-patterns-demo/tree/finish
 - [7guis](https://eugenkiss.github.io/7guis/)
+- [javascript-pub-sub-message-priorities](https://stackoverflow.com/questions/9530570/javascript-pub-sub-message-priorities)
+- [Slides: Building Decoupled Large-Scale Applications With JavaScript And jQuery](https://addyosmani.com/blog/jqcon-largescalejs-2012/)
+- [Building Large-scale Applications with JavaScript - jQuery UK 2012](https://www.youtube.com/watch?v=2kwGfFXbRMI)
+- [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
 
 ## GraphQL
 - [GraphQL vs. REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)

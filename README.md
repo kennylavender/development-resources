@@ -4,6 +4,8 @@ Development resources
 This is sort of a mess at the moment, I am just working on gathering all my resources into one place at the moment and I will organize after.
 
 ## Random
+- [Image Optim](https://imageoptim.com/)
+- [vim config](https://github.com/amix/vimrc)
 - https://dev.to/lpasqualis/the-5-problem-solving-skills-of-great-software-developers-4e6
 - https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4
 - https://martinfowler.com/bliki/ContinuousDelivery.html
@@ -35,11 +37,17 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 - [Slides: Building Decoupled Large-Scale Applications With JavaScript And jQuery](https://addyosmani.com/blog/jqcon-largescalejs-2012/)
 - [Building Large-scale Applications with JavaScript - jQuery UK 2012](https://www.youtube.com/watch?v=2kwGfFXbRMI)
 - [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+- [autoprefixer](https://autoprefixer.github.io/)
+- [clean css](http://www.cleancss.com/css-beautify/)
+- [7 guis](https://github.com/eugenkiss/7guis/wiki)
 
 ## GraphQL
 - [GraphQL vs. REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)
 - [https://www.howtographql.com/](https://www.howtographql.com/)
 
+## Accessibility
+- [webaim](http://wave.webaim.org/)
+- [webaim contrast](https://webaim.org/resources/contrastchecker/)
 
 ## Infrastructure
 - [Martin Fowler & Erik Dörnenburg - Architecture without architects](http://www.ustream.tv/recorded/86152575)

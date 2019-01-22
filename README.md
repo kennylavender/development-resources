@@ -44,6 +44,12 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 ## GraphQL
 - [GraphQL vs. REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)
 - [https://www.howtographql.com/](https://www.howtographql.com/)
+- [Authorization in GraphQL](https://www.youtube.com/watch?v=etax3aEe2dA)
+
+## AI / Machine Learning
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [A Beginner’s Guide to AI/ML 🤖👶 – Machine Learning for Humans – Medium](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+
 
 ## Accessibility
 - [webaim](http://wave.webaim.org/)

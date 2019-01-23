@@ -49,6 +49,7 @@ This is sort of a mess at the moment, I am just working on gathering all my reso
 ## AI / Machine Learning
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [A Beginner’s Guide to AI/ML 🤖👶 – Machine Learning for Humans – Medium](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+- https://smerity.com/abme.html
 
 
 ## Accessibility
